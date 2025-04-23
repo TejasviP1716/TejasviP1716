@@ -16,7 +16,7 @@ I love transforming raw data into meaningful insights and impactful dashboards.
 
 📫 **Let's connect:**  
 - LinkedIn: [www.linkedin.com/in/tejasvi-parmar]
-- Email: prmrtej.2020@gmail.com
+- Email: [prmrtej.2020@gmail.com]
 
 ✨ **Fun Fact:**  
 I believe a good graph is worth a thousand spreadsheets 😄
