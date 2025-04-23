@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**TejasviP1716/TejasviP1716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm Tejasvi Parmar 👋  
+🚀 Aspiring Data Analyst | 📊 Python & SQL Enthusiast | 📚 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Tejasvi — currently learning data analysis, visualization, and storytelling with data.  
+I love transforming raw data into meaningful insights and impactful dashboards.
+
+---
+
+🔍 **Currently Exploring:**  
+- Python for Data Science (Pandas, NumPy)
+- SQL for querying datasets
+- Tableau & Power BI
+- Statistics for data analysis
+
+📫 **Let's connect:**  
+- LinkedIn: [www.linkedin.com/in/tejasvi-parmar]
+- Email: prmrtej.2020@gmail.com
+
+✨ **Fun Fact:**  
+I believe a good graph is worth a thousand spreadsheets 😄
+
+---
