@@ -1,7 +1,7 @@
 
 
 # Hello, I'm Tejasvi Parmar 👋  
-🚀 Aspiring Data Analyst | 📊 Python & SQL Enthusiast | 📚 Lifelong Learner  ![background](https://github.com/user-attachments/assets/24371438-e3d4-423f-8c14-cf97d212ca7b)
+🚀 Aspiring Data Analyst | 📊 Python & SQL Enthusiast | 📚 Lifelong Learner  
 
 I'm Tejasvi — currently learning data analysis, visualization, and storytelling with data.  
 I love transforming raw data into meaningful insights and impactful dashboards.
